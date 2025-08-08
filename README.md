@@ -1,4 +1,4 @@
-t# SauceDemo Selenium QA Project
+# SauceDemo Selenium QA Project
 
 ## Overview
 This project contains **automated UI tests** for [SauceDemo](https://www.saucedemo.com/) using:
