@@ -15,3 +15,15 @@ The goal is to demonstrate **QA automation skills** by covering login, add-to-ca
 ```bash
 git clone https://github.com/Sharmistha2021/saucedemo-selenium.git
 cd saucedemo-selenium
+
+### 2. Create a virtual environment
+python -m venv venv
+venv\Scripts\activate   # Windows
+source venv/bin/activate  # Mac/Linux
+
+## 3. Install dependencies
+pip install -r requirements.txt
+
+### 4. Run tests
+python test_login.py
+python test_add_to_cart.py
