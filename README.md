@@ -10,7 +10,7 @@ The goal is to demonstrate **QA automation skills** by covering login, add-to-ca
 
 ---
 
-## 🛠 Setup Instructions
+## Setup Instructions
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Sharmistha2021/saucedemo-selenium.git
