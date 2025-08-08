@@ -15,7 +15,7 @@ The goal is to demonstrate **QA automation skills** by covering login, add-to-ca
 ```bash
 git clone https://github.com/Sharmistha2021/saucedemo-selenium.git
 cd saucedemo-selenium
-
+exit
 ### 2. Create a virtual environment
 ```bash
 python -m venv venv
