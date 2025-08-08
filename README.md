@@ -33,12 +33,12 @@ python test_add_to_cart.py
 ```
 
 # Folder Structure
-
+```plaintext
 saucedemo-selenium/
 ├── manual-test-cases.md
 ├── test_login.py
 ├── test_add_to_cart.py
 ├── requirements.txt
 └── README.md
-
+```
 # Screenshots
