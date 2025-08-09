@@ -48,5 +48,9 @@ saucedemo-selenium/
 
 ```
 # Screenshots 
+Login test
 ![login test](login_test.png)
+
+cart test
+![cart test](cart_test.png)
 
