@@ -35,11 +35,17 @@ python test_add_to_cart.py
 # Folder Structure
 ```plaintext
 saucedemo-selenium/
+├── pages/
+│   ├── login_page.py
+│   ├── cart_page.py
+│   └── checkout_page.py
 ├── manual-test-cases.md
 ├── test_login.py
-├── test_add_to_cart.py
+├── test_cart.py
+├── test_checkout.py
 ├── requirements.txt
 └── README.md
+
 ```
 # Screenshots 
 ![login test](login_test.png)
