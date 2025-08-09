@@ -54,3 +54,6 @@ Login test
 cart test
 ![cart test](cart_test.png)
 
+checkout test
+![checkout test](checkout_test.png)
+
