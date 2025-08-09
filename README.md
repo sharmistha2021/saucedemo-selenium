@@ -41,7 +41,6 @@ saucedemo-selenium/
 ├── requirements.txt
 └── README.md
 ```
-# Screenshots
-login test 
-![Login Passed](login_passed.png)
+# Screenshots 
+![login test](login_test.png)
 
