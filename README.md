@@ -43,6 +43,7 @@ saucedemo-selenium/
 ├── test_login.py
 ├── test_cart.py
 ├── test_checkout.py
+├── test_logout.py
 ├── requirements.txt
 └── README.md
 
